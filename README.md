@@ -28,7 +28,7 @@ Navigate to the project directory:
 ## Usage
 Open the documents in your preferred word processor or PDF viewer to explore the networking concepts and implementations.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
